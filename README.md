@@ -14,7 +14,7 @@ I'm an independent researcher focused on theoretical physics — especially the 
 
 **Contact**
 - Email: photon.echo.research@proton.me
-- ORCID: *coming soon*
+- ORCID: https://orcid.org/0009-0004-7777-7368
 - Website: *Coming soon*
 
 ---
