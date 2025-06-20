@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm James Hawkins 
 
-<!--
-**jhawkins-physics/jhawkins-physics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent researcher focused on theoretical physics — especially the optical and gravitational behavior of light near black holes. I created the **Photon Echo Model**, a novel theory proposing reflective quantum shells around black holes to explain brightness fluctuations observed by instruments like the EHT.
 
-Here are some ideas to get you started:
+**Research Interests**
+- General relativity and Kerr black holes
+- Gravitational optics and photon paths
+- Black hole imaging and photon echo simulations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Latest Work**
+- 📄 [Photon Echo Model – arXiv Preprint (2025)] *coming soon*
+- 💻 [Photon Echo GitHub Repo](https://github.com/jhawkins-physics/photon-echo-model)
+- 🎓 [Slide Deck: Explaining the Photon Echo Model] *coming soon*
+
+**Contact**
+- Email: photon.echo.research@proton.me
+- ORCID: *coming soon*
+- Website: *Coming soon*
+
+---
+
+ *I'm always open to thoughtful questions, collaboration, or constructive critique.*
+
