@@ -9,7 +9,7 @@ I'm an independent researcher focused on theoretical physics — especially the 
 
 **Latest Work**
 - 📄 [Photon Echo Model – arXiv Preprint (2025)] *coming soon*
-- 💻 [Photon Echo GitHub Repo] https://github.com/jhawkins-physics/photon-echo-model
+- 💻 [Photon Echo GitHub Repo] [https://github.com/jhawkins-physics/photon-echo-model]
 - 🎓 [Slide Deck: Explaining the Photon Echo Model] *coming soon*
 
 **Contact**
